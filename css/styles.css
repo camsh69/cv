@@ -11780,11 +11780,15 @@ p.lead {
   margin-right: 0;
 }
 .social-icons .social-icon:hover {
-  background-color: #44449b;
+  background-color: #d70eeb;
 }
 
 .dev-icons {
   font-size: 3rem;
+}
+
+.contact-icon:hover {
+  text-decoration: none;
 }
 
 section.resume-section {
