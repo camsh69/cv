@@ -11817,3 +11817,9 @@ section.resume-section .resume-section-content {
     padding-bottom: 3rem;
   }
 }
+
+@media (max-width:629px) {
+  img#logo {
+    display: none;
+  }
+}
